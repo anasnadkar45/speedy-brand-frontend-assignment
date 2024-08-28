@@ -2,10 +2,12 @@
 
 # Project Overview
 
-Efficiently manage your widgets with our dashboard .Categorize them, and easily search through your collection. Streamline your workspace and enhance productivity with intuitive widget management tools.
+The Streamify Analytics Dashboard is a frontend application that visualizes key metrics and data for a fictional music streaming service called Streamify. The dashboard is designed to provide insights into user activity, revenue generation, and content performance. It aims to be both functional and visually appealing, ensuring that the management team can easily access and interpret the data.
 
+# Getting Started
+Node.js and npm installed on your machine.
 
-# How to Run
+# Installation
 
 1.Clone or Download the Repository
 
