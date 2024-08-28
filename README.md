@@ -14,7 +14,7 @@ Node.js and npm installed on your machine.
 Clone: Open your terminal or command prompt and run
 
   ```bash
-   https://github.com/anasnadkar45/Frontend-Assignment-2.git
+   https://github.com/anasnadkar45/speedy-brand-frontend-assignment.git
 ```
 
 Download: Alternatively, you can download the repository as a ZIP file from GitHub and extract it to your local machine.
