@@ -9,12 +9,13 @@ Node.js and npm installed on your machine.
 
 # Installation
 
-1.Clone or Download the Repository
+1.Clone the repository:
 
 Clone: Open your terminal or command prompt and run
 
   ```bash
-   https://github.com/anasnadkar45/speedy-brand-frontend-assignment.git
+   git clone https://github.com/anasnadkar45/speedy-brand-frontend-assignment.git
+   cd speedy-brand-frontend-assignment
 ```
 
 Download: Alternatively, you can download the repository as a ZIP file from GitHub and extract it to your local machine.
@@ -46,7 +47,5 @@ This will usually start the development server and open the application in your 
 
 Alternatively, Users can see a live version of this project without having to set it up locally by using the below link
 
-[Live Demo](https://accuknox-frontend-assignment.vercel.app/)
+[Live Demo](https://speedy-brand-frontend-assignment.vercel.app/)
 
-
- Please view it on a desktop as it is not responsive on mobile devices.
