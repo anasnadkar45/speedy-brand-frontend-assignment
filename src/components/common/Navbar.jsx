@@ -1,7 +1,7 @@
 import { Input } from '../ui/input'
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuLabel, DropdownMenuSeparator, DropdownMenuTrigger } from '../ui/dropdown-menu'
 import { Button } from '../ui/button'
-import { Music2Icon } from 'lucide-react'
+import { Music2Icon, Music4Icon } from 'lucide-react'
 import { ModeToggle } from '../mode-toggle'
 
 const Navbar = () => {
@@ -9,8 +9,8 @@ const Navbar = () => {
         <div>
             <header className="sticky top-0 z-30 flex justify-between h-16 items-center gap-4 border-b bg-background px-4 sm:px-6">
                 <a href="#" className="flex items-center gap-2 text-lg font-semibold" prefetch={false}>
-                    <Music2Icon className="h-6 w-6" />
-                    <span className="text-primary text-2xl font-bold">Melodic</span>
+                    <Music4Icon className="h-6 w-6" />
+                    <span className="text-primary text-2xl font-bold">Streamify</span>
                 </a>
                 <nav className="ml-auto hidden items-center gap-2 md:flex">
                     <a href="#" className="text-sm font-medium text-muted-foreground hover:text-foreground" prefetch={false}>
